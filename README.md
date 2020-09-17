@@ -1,2 +1,2 @@
-# Trollo
-Trello Clone
+# Trollo App
+Trello Clone 
